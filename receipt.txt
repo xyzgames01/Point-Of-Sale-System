@@ -1,0 +1,4 @@
+Item: 2	Description: Sprite              	Amount: 1 	Price: $   2.99 	Item Total: $   2.99
+Item: 7	Description: Onion Rings         	Amount: 3 	Price: $   3.99 	Item Total: $  11.97
+
+Today's Total is: $ 14.96
